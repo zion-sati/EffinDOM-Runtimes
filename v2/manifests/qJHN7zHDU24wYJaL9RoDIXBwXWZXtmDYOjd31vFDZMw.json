@@ -1,0 +1,107 @@
+{
+  "version": "1.0",
+  "manifest_hash": "KWN5P3x7OOAPs3gb48lKSij8l-OcdLitAWtGRqBBC9U",
+  "runtime_set_hash": "qJHN7zHDU24wYJaL9RoDIXBwXWZXtmDYOjd31vFDZMw",
+  "architectures": {
+    "wasm32": {
+      "core": {
+        "js": "../assets/effindom-core-v2.wasm32.YtnCwWeKsdBKfJGBgZePeAEZFRwtcdGmBoP3YCt3owQ.js",
+        "js_integrity": "sha256-YtnCwWeKsdBKfJGBgZePeAEZFRwtcdGmBoP3YCt3owQ=",
+        "wasm": "../assets/effindom-core-v2.wasm32.6Boeb80l1edTUvDv78j2lta3RVRHfLniV-V6A5wEVDs.wasm",
+        "wasm_integrity": "sha256-6Boeb80l1edTUvDv78j2lta3RVRHfLniV+V6A5wEVDs="
+      },
+      "ui": {
+        "js": "../assets/effindom-ui-v2.wasm32.J2hHMjD7BMzW6oY27SOsa2kCHKyMFiU41cWz_GJfB-I.js",
+        "js_integrity": "sha256-J2hHMjD7BMzW6oY27SOsa2kCHKyMFiU41cWz/GJfB+I=",
+        "wasm": "../assets/effindom-ui-v2.wasm32.gxO_jhpJRYsF95f6Rp4AyTOokesBKNLiyGJUdps1Lsk.wasm",
+        "wasm_integrity": "sha256-gxO/jhpJRYsF95f6Rp4AyTOokesBKNLiyGJUdps1Lsk="
+      }
+    },
+    "wasm32-simd": {
+      "core": {
+        "js": "../assets/effindom-core-v2.wasm32-simd._swtz-R88kO_TbZ4Ws0yyPPLePvsElrr68Z_xOG_oMo.js",
+        "js_integrity": "sha256-/swtz+R88kO/TbZ4Ws0yyPPLePvsElrr68Z/xOG/oMo=",
+        "wasm": "../assets/effindom-core-v2.wasm32-simd.xq4PS5QPGu7P4Nm9ThK3Vwx3C7WjqAeU_XuHrrVP65w.wasm",
+        "wasm_integrity": "sha256-xq4PS5QPGu7P4Nm9ThK3Vwx3C7WjqAeU/XuHrrVP65w="
+      },
+      "ui": {
+        "js": "../assets/effindom-ui-v2.wasm32-simd.J2hHMjD7BMzW6oY27SOsa2kCHKyMFiU41cWz_GJfB-I.js",
+        "js_integrity": "sha256-J2hHMjD7BMzW6oY27SOsa2kCHKyMFiU41cWz/GJfB+I=",
+        "wasm": "../assets/effindom-ui-v2.wasm32-simd.eptjw8gPoVr3_h5vDcVxOMEok0TezkLx-EybGh5V8IY.wasm",
+        "wasm_integrity": "sha256-eptjw8gPoVr3/h5vDcVxOMEok0TezkLx+EybGh5V8IY="
+      }
+    },
+    "wasm64": {
+      "core": {
+        "js": "../assets/effindom-core-v2.wasm64.0XNag9hZTdCoi9x_5UDPyfGEiB6nR5c3bPEBipfD6fo.js",
+        "js_integrity": "sha256-0XNag9hZTdCoi9x/5UDPyfGEiB6nR5c3bPEBipfD6fo=",
+        "wasm": "../assets/effindom-core-v2.wasm64.JqnDnsbIvd6Gc7L2WcgZr0Rro2z9WPBNWZWplu4mUIM.wasm",
+        "wasm_integrity": "sha256-JqnDnsbIvd6Gc7L2WcgZr0Rro2z9WPBNWZWplu4mUIM="
+      },
+      "ui": {
+        "js": "../assets/effindom-ui-v2.wasm64.lQ3EzhEwBy_J94ZLP9kqLjbJYTBhKvpKxARFQGeZTh0.js",
+        "js_integrity": "sha256-lQ3EzhEwBy/J94ZLP9kqLjbJYTBhKvpKxARFQGeZTh0=",
+        "wasm": "../assets/effindom-ui-v2.wasm64.Eahj13VN3Y6cmQJ5h3dSJWsC5D5Iuon1iOz09KJ9qbg.wasm",
+        "wasm_integrity": "sha256-Eahj13VN3Y6cmQJ5h3dSJWsC5D5Iuon1iOz09KJ9qbg="
+      }
+    },
+    "wasm64-simd": {
+      "core": {
+        "js": "../assets/effindom-core-v2.wasm64-simd.vorxXby5UzbdAwMe6zmoPyOwoVI7NlSN8hvUlvA9r-c.js",
+        "js_integrity": "sha256-vorxXby5UzbdAwMe6zmoPyOwoVI7NlSN8hvUlvA9r+c=",
+        "wasm": "../assets/effindom-core-v2.wasm64-simd.iznUJFBPhEirDKKl6dJXRwQL2kapYQ8xkljQKO5j6Dc.wasm",
+        "wasm_integrity": "sha256-iznUJFBPhEirDKKl6dJXRwQL2kapYQ8xkljQKO5j6Dc="
+      },
+      "ui": {
+        "js": "../assets/effindom-ui-v2.wasm64-simd.lQ3EzhEwBy_J94ZLP9kqLjbJYTBhKvpKxARFQGeZTh0.js",
+        "js_integrity": "sha256-lQ3EzhEwBy/J94ZLP9kqLjbJYTBhKvpKxARFQGeZTh0=",
+        "wasm": "../assets/effindom-ui-v2.wasm64-simd.O7LJ28s7mvtkgDmp_p6YWx2-swTzyMC0k-Re8vgqGko.wasm",
+        "wasm_integrity": "sha256-O7LJ28s7mvtkgDmp/p6YWx2+swTzyMC0k+Re8vgqGko="
+      }
+    }
+  },
+  "assets": {
+    "icu": {
+      "url": "../assets/icudt_minimal.962CX1q0-Nbv-OqXPaub5piYTOLumUk-nEvemcvvnpw.dat",
+      "integrity": "sha256-962CX1q0+Nbv+OqXPaub5piYTOLumUk+nEvemcvvnpw="
+    },
+    "fonts": {
+      "NotoColorEmoji.ttf": {
+        "url": "../assets/NotoColorEmoji.cqY1yz0vNSTFFiDN3kBrIXIE6KagbGoJb_jtS1_W4ns.ttf",
+        "integrity": "sha256-cqY1yz0vNSTFFiDN3kBrIXIE6KagbGoJb/jtS1/W4ns="
+      },
+      "NotoEmoji-Regular.ttf": {
+        "url": "../assets/NotoEmoji-Regular.1PWmh3LhLAZ491TmHQmkJmyPr0MScwH16B-YhCmV91s.ttf",
+        "integrity": "sha256-1PWmh3LhLAZ491TmHQmkJmyPr0MScwH16B+YhCmV91s="
+      },
+      "NotoSans-Bold.ttf": {
+        "url": "../assets/NotoSans-Bold.yXbksbme3Ih3U3f8whaSykv6RrbWymUiv9pQWyj_nWo.ttf",
+        "integrity": "sha256-yXbksbme3Ih3U3f8whaSykv6RrbWymUiv9pQWyj/nWo="
+      },
+      "NotoSans-BoldItalic.ttf": {
+        "url": "../assets/NotoSans-BoldItalic.bt9CJ-8PqEaspw6GoweATKRAF0GDD1s68PJVSr4rhGY.ttf",
+        "integrity": "sha256-bt9CJ+8PqEaspw6GoweATKRAF0GDD1s68PJVSr4rhGY="
+      },
+      "NotoSans-Italic.ttf": {
+        "url": "../assets/NotoSans-Italic.Ns_xRN8BMJ2rZIvqcbr_m7B0AmkUr-Y66syLyQtnoos.ttf",
+        "integrity": "sha256-Ns/xRN8BMJ2rZIvqcbr/m7B0AmkUr+Y66syLyQtnoos="
+      },
+      "NotoSans-Regular.ttf": {
+        "url": "../assets/NotoSans-Regular.uFw47OqKfPs5wk45WkAHR0-lpPyGT27jMwnrSUjSMtU.ttf",
+        "integrity": "sha256-uFw47OqKfPs5wk45WkAHR0+lpPyGT27jMwnrSUjSMtU="
+      },
+      "NotoSansMono-Bold.ttf": {
+        "url": "../assets/NotoSansMono-Bold.Eg3sg2wYIzaGaDmQQB88DNQgA9UFqN2NuXjrpOamnF8.ttf",
+        "integrity": "sha256-Eg3sg2wYIzaGaDmQQB88DNQgA9UFqN2NuXjrpOamnF8="
+      },
+      "NotoSansMono-Regular.ttf": {
+        "url": "../assets/NotoSansMono-Regular.vFgRhWIRKkyHbidxGZsPNargcADl_h9KxtA0lpAJgfQ.ttf",
+        "integrity": "sha256-vFgRhWIRKkyHbidxGZsPNargcADl/h9KxtA0lpAJgfQ="
+      },
+      "NotoSansSymbols2-Regular.ttf": {
+        "url": "../assets/NotoSansSymbols2-Regular.YwhG1Sjb5MSYE3Ck0KlHWh_RSRoSm7QR-OFXzbXeE8Y.ttf",
+        "integrity": "sha256-YwhG1Sjb5MSYE3Ck0KlHWh/RSRoSm7QR+OFXzbXeE8Y="
+      }
+    }
+  }
+}
